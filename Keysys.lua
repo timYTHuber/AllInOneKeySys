@@ -16,7 +16,7 @@ OrionLib:MakeNotification({
 	Time = 5
 }) --Notification
 
-getgenv().Key = "HUB-XLCXEATWSDBKUMKO" --Put The Correct Key Here
+getgenv().Key = "SLX-QSFTMECXBUSQQNLU" --Put The Correct Key Here
 getgenv().KeyInput = "string" --KeyInput Require To Make The Key Work
 
 local Tab = Window:NewTab("KEY SYSTEM") --This Will Make A Tab
